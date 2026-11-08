@@ -1,0 +1,17 @@
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# Python缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyCharm配置
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
